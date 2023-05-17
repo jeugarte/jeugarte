@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Joseph Edson Ugarte
-- 👀 I’m interested in backend, web application, and algorithmic development
-- 🌱 I’m currently learning cloud computing by using the Google Cloud Platform
-- 💞️ I’m looking to collaborate on making a website, implemented using React
+- 👀 I’m interested in backend, mobile, and linguistic development
+- 🌱 I’m currently learning computational linguistics, operating systems, and algorithmic analysis at Cornell
+- 💞️ I’m looking to create a lifestyle iOS app for fashion this summer
 - 📫 How to reach me: jeugarte14@gmail.com | jeu9@cornell.edu
 
 <!---
